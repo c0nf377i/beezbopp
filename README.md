@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @beezbopp
+- 👋 Hi, I’m @c0nf377i
 - 👀 I’m interested in Python 3 and increasing my developer skills.
 - 🌱 I’m currently learning Python 3.
 - 💞️ I’m looking to collaborate on small projects to increase my skills creating with Python.
